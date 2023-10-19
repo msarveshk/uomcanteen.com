@@ -1,0 +1,57 @@
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+body {
+background-color: #D0D3D4 ;
+}
+
+h1{
+color: darkblue;
+font-family: Castellar;
+text-allign: center;
+}
+
+h2{
+color: brown;
+font-family: Charlemagne Std;
+text-allign: center;
+}
+
+.links {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.links li {
+    list-style-type: none;
+}
+
+.links a {
+    padding: 5px;
+}
+
+img {
+    width: 35%;
+    margin-top: 20px;
+}
+
+p {
+color: black;
+font-family: Agency FB;
+text-allign: center;
+    width: 60;
+}
+
+ul {
+color: black;
+font-family: Agency FB;
+text-allign: center;
+}
+a{
+color: #17202A;
+font-family: Agency FB;
+text-allign: center;
+}
